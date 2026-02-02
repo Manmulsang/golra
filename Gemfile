@@ -7,7 +7,6 @@ gemspec
 group :development, :test do
   gem "pry"
   gem "rspec"
-  gem "rubocop", require: false
-  gem "rubocop-rake", require: false
+  gem "rubocop-shopify", require: false
   gem "sqlite3"
 end

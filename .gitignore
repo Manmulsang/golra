@@ -1,0 +1,11 @@
+*.gem
+pkg/
+.bundle/
+Gemfile.lock
+.idea/
+.vscode/
+.ruby-lsp/
+.claude/
+.DS_Store
+coverage/
+tmp/
